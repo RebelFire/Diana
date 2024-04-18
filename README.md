@@ -1,2 +1,1 @@
-# Diana
- Diana is digital pet inspired by Tamagotchi. 
+Diana is a Python-based digital pet inspired by Tamagotchi, designed to run on Raspberry Pi 5. Utilizing a self-made desktop gadget built with Raspberry Pi Pico, Diana offers users a nostalgic yet modern experience of caring for a virtual companion. I built her with a unique purpose in mind, Diana serves as a personal reminder to drink water for me. By tending to her needs, I can also remember to drink water, intertwining the act of caring for Diana with the practice of self-care.
